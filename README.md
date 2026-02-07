@@ -30,17 +30,30 @@ Never lose a second during a fight.
 
 ### 4. Armor HUD & Debug Tools
 The ultimate tactical overlay.
-* **Armor Icons:** View what armor others are wearing directly above their heads.
-* **Crouch Support:** Armor icons remain visible even if the player is sneaking/crouching.
-* **Hitboxes & Chunks:** Integrated visual debug tools to see player hitboxes and chunk borders.
+* **Armor Icons:** View what armor others are wearing directly above their heads (even when crouching).
+* **Hitboxes & Chunks:** Integrated visual debug tools.
 * ❌ **Elytra Limitation:** Armor display is disabled while a player is flying with Elytra.
 
 ---
 
-## 🛠️ Installation
-1. Download the `.mcpack` files from the **downloads** folder.
-2. Open the files to automatically import them into Minecraft.
-3. Make sure to use **Oderso Client** for the best experience.
+## 🔝 Loading Order (Crucial)
+For everything to work perfectly, you **MUST** respect this order in your Global Resources (from top to bottom):
+
+1. **Armor HUD & Debug Tools** (Top Priority)
+2. **HP Viewer**
+3. **Fast Loading**
+4. **Main Pack (All-in-One)** (Bottom)
 
 ---
-*Created with 💙 for the Bedrock community.*****
+
+## 🛠️ Installation
+1. Download the `.mcpack` files.
+2. Open the files to automatically import them into Minecraft.
+3. Make sure to use **Oderso Client** and respect the loading order above.
+
+---
+
+![Preview de mes packs] <img width="1081" height="834" alt="image" src="https://github.com/user-attachments/assets/cace15e3-8afa-43da-be52-e53d013df288" />
+
+
+*Created with 💙 for the Bedrock community.*
